@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins';
+}
+#welcome{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+}
+
+#box{
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+#loginbox{
+    font-size: 15px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#submit{
+    display: flex;
+    margin-top: 10px;
+}
